@@ -1,2 +1,7 @@
 /venv/
 venv/
+
+*.json
+*.log
+
+.env
