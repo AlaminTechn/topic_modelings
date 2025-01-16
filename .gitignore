@@ -3,5 +3,11 @@ venv/
 
 *.json
 *.log
+*.csv
 
 .env
+
+
+result.csv
+__pycache__/
+
