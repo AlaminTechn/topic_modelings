@@ -1,0 +1,19 @@
+Accuracy: 0.4827586206896552
+Classification Report:
+               precision    recall  f1-score   support
+
+     accident       1.00      0.50      0.67         6
+     business       0.00      1.00      0.00         0
+   corruption       0.80      1.00      0.89         4
+        crime       0.84      0.89      0.86        18
+        cyber       0.00      1.00      0.00         0
+   cybercrime       1.00      0.00      0.00        20
+entertainment       0.50      0.25      0.33         4
+       others       0.25      1.00      0.40         2
+     politics       0.33      0.50      0.40         4
+         tech       0.00      1.00      0.00         0
+   technology       0.00      1.00      0.00         0
+
+     accuracy                           0.48        58
+    macro avg       0.43      0.74      0.32        58
+ weighted avg       0.83      0.48      0.46        58
